@@ -1,4 +1,4 @@
-class chatty_student < student
+class chattystudent < student
   
   def hello (chatty_student)
     puts "hello"
